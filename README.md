@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erickml-dev
-- 👀 I’m interested in HTML, CSS & JavaScript
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 📫 How to reach me: erickmelo_lopes@hotmail.com
 - ⚡ Fun fact: ...
 
